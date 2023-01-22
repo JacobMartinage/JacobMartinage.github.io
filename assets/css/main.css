@@ -2153,10 +2153,12 @@ input, select, textarea {
 			padding-bottom: 10px; 
 			color: rgb(32, 31, 31); 
 		  }
-		  .py {width: 80%; background-color: #f44336;} 
-		  .html {width: 75%; background-color: #fdb00b;} 
-		  .css {width: 69%; background-color: #d9fd0b;} 
-		  .jv {width: 60%; background-color: #90f78c;;} 
+		  .eng{width:100%; background-color: #ff0000;}
+		  .py {width: 73%; background-color: #f44336;} 
+		  .html {width: 70%; background-color: #fdb00b;} 
+		  .css {width: 65%; background-color: #ffd900;} 
+		  .jv {width: 60%; background-color: #fcff5a;;}
+		  .lat{width: 55%; background-color: #86ff35;} 
 		  .js {width: 50%; background-color: #3fda31;} 
 		  .sql {width: 40%; background-color: #4bd8d8;} 
 		  .nodejs {width: 40%; background-color: #62a3ee;}
