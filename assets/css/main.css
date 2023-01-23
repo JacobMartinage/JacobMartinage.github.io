@@ -2156,14 +2156,14 @@ input, select, textarea {
 		  .eng{width:100%; background-color: #ff0000;}
 		  .py {width: 73%; background-color: #f44336;} 
 		  .html {width: 70%; background-color: #fdb00b;} 
-		  .css {width: 65%; background-color: #ffd900;} 
+		  .css {width: 60%; background-color: #ffd900;} 
 		  .jv {width: 60%; background-color: #fcff5a;;}
-		  .lat{width: 55%; background-color: #86ff35;} 
-		  .js {width: 50%; background-color: #3fda31;} 
-		  .sql {width: 40%; background-color: #4bd8d8;} 
-		  .nodejs {width: 40%; background-color: #62a3ee;}
-		  .react {width: 35%; background-color: #f3a0da;}  
-		  .ang {width: 30%; background-color: #bbafff;} 
+		  .lat{width: 50%; background-color: #86ff35;} 
+		  .js {width: 45%; background-color: #3fda31;} 
+		  .sql {width: 35%; background-color: #4bd8d8;} 
+		  .nodejs {width: 35%; background-color: #62a3ee;}
+		  .react {width: 25%; background-color: #f3a0da;}  
+		  .ang {width: 25%; background-color: #bbafff;} 
 		  .flut {width: 25%; background-color: #dddddd;} 
 /* List */
 
